@@ -6,8 +6,8 @@ All the Solution Analysis, Problem Analysis, Solution Development are described 
 ** Major Case Study :: 
 
 
-- Industry 1 : Ethical Industrial Chemicals/Retail Parts/Agriculture/Food/Oil/Water/Construction Materials Testing Services Laboratory
+- Industry 1 : [ AALRS Laboratory Services ] Ethical Industrial Chemicals/Retail Parts/Agriculture/Food/Oil/Water/Construction Materials Testing Services Laboratory
 
-- Industry 2 : B2B Business Of Women Apparel & Fashion Development [Design-Develop-Sell-Orders-Productions-Account-Materials(BOM).....]
+- Industry 2 : [ SDW/SS Fashion & Apparel ] B2B Business Of Women Apparel & Fashion Development [Design-Develop-Sell-Orders-Productions-Account-Materials(BOM).....]
 
-- Industry 3 : Industiral Water/Chemical transport Electrical Motors Manufacturing [Design - Manufacture - Order - Selling]
+- Industry 3 : [ VK Industries ] Industiral Water/Chemical transport Electrical Motors Manufacturing [Design - Manufacture - Order - Selling]
